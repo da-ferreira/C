@@ -7,5 +7,4 @@ int main() {
 	//getch();  // Trava o programa pro usuário
 	system("pause");  // Não precisa de importação. É o pause do Windows
 	return 0;
-	
 }
