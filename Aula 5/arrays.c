@@ -8,4 +8,6 @@
 	int tamanho_array = sizeof(numeros) / sizeof(numeros[0]);
 	
 	printf("Tamanho do array de numeros: %d", tamanho_array);
+	
+	return 0;
 }
