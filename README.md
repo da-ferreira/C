@@ -1,1 +1,1 @@
-Estudo da linguagem C.
+Estudo da linguagem de programação C.
